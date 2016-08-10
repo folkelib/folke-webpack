@@ -1,0 +1,33 @@
+{
+  "name": "folke-webpack",
+  "version": "1.0.0",
+  "description": "Call webpack with the default Folke configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/folkelib/folke-webpack.git"
+  },
+  "author": "Sidoine De Wispeleaere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/folkelib/folke-webpack/issues"
+  },
+  "homepage": "https://github.com/folkelib/folke-webpack#readme",
+  "dependencies": {
+    "folke-webpack-config": "^1.0.3",
+     "webpack": "^1.13.1",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "raw-loader": "^0.5.1",
+    "less": "^2.7.1",
+    "file-loader": "^0.9.0"
+  }
+}
