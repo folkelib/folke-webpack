@@ -12,6 +12,7 @@ npm install folke-default-application
 typings init
 typings install knockout -S
 typings install github:Sidoine/promise -SG
+typings install dt~whatwg-fetch -SG
 tsc --init
 ```
 Edit your ``package.json`` file. Your ``script`` section should look like this:
