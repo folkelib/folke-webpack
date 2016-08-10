@@ -6,8 +6,8 @@ Browse to your source directory.
 
 ```
 npm init
-npm install -g typescript
-npm install typings folke-webpack --save-dev
+npm install -g typescript typings
+npm install folke-webpack --save-dev
 npm install folke-default-application
 typings init
 typings install knockout -S
