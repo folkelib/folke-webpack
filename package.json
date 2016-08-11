@@ -1,6 +1,6 @@
 {
   "name": "folke-webpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Call webpack with the default Folke configuration",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/folkelib/folke-webpack#readme",
   "dependencies": {
     "folke-webpack-config": "^1.0.3",
-     "webpack": "^1.13.1",
+    "webpack": "^1.13.1",
     "less-loader": "^2.2.3",
     "style-loader": "^0.13.1",
     "css-loader": "^0.23.1",
